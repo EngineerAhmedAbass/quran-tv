@@ -16,7 +16,7 @@
 ## التحميل
 افتح الرابط ده من الموبايل:
 
-**https://github.com/EngineerAhmedAbass/Test2/releases/download/car-latest/Quran-Radio-Car.apk**
+**https://github.com/EngineerAhmedAbass/quran-tv/releases/download/car-latest/Quran-Radio-Car.apk**
 
 ## التسطيب (مرة واحدة بس)
 1. سطّب الـ APK على الموبايل، ولو طلب منك اسمح بالتثبيت من مصادر غير معروفة.
