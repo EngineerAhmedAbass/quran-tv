@@ -31,7 +31,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 final class Updater {
 
     private static final String BASE =
-            "https://github.com/EngineerAhmedAbass/Test2/releases/download/tv-latest/";
+            "https://github.com/EngineerAhmedAbass/quran-tv/releases/download/latest/";
     private static final AtomicBoolean RUNNING = new AtomicBoolean(false);
 
     interface Listener {

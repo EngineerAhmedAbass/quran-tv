@@ -35,7 +35,7 @@
 أول مرة بس ممكن التليفزيون يطلب منك تسمح للبرنامج إنه يسطّب تطبيقات.
 
 ## التحميل
-**https://github.com/EngineerAhmedAbass/Test2/releases/download/tv-latest/Quran-TV.apk**
+**https://github.com/EngineerAhmedAbass/quran-tv/releases/download/latest/Quran-TV.apk**
 
 ## التسطيب على التليفزيون
 1. سطّب برنامج **Downloader** (من AFTVnews) من Play Store على التليفزيون.
